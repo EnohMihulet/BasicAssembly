@@ -8,4 +8,4 @@ Basic programs written in assembly.
  
 4. Array Operations
 
-5. Basic Guessing Game# BasicAssembly
+5. Basic Guessing Game
