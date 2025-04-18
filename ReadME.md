@@ -6,6 +6,6 @@ Basic programs written in assembly.
 
 3. Fibonacci Sequence Generator
  
-4. Array Operations
+4. Array Operations (sum, min, max, avg, sorting, search, and printing array/results)
 
 5. Basic Guessing Game

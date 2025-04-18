@@ -1,5 +1,5 @@
 .section .data
-    n = 92;
+    n = 92
     buf: .space 24
 
 .section .text

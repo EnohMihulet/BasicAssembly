@@ -1,6 +1,6 @@
 .section .data
     msg: .asciz "Hello, World!\n" // msg string
-    len = . -msg // length of msg string (difference between current position and end of msg string)
+    len = . -msg // length of msg string (difference between current position and start of msg string)
 
 .section .text
     .global _start
